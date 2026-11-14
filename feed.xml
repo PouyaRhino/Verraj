@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>وراج | Verraj</title>
+    <link>https://pouyarhino.github.io/Verraj/</link>
+    <atom:link href="https://pouyarhino.github.io/Verraj/feed.xml" rel="self" type="application/rss+xml"/>
+    <language>fa</language>
+    <description>پادکست فارسی درباره روان‌شناسی زندگی روزمره و تاب‌آوری؛ کوتاه، خودمانی و کاربردی.
+
+متن و صدای این پادکست با کمک هوش مصنوعی ساخته می‌شود و پویا آن را منتشر می‌کند. جای مشاوره روان‌شناسی را نمی‌گیرد.</description>
+    <itunes:author>Pouya</itunes:author>
+    <itunes:owner><itunes:name>Pouya</itunes:name><itunes:email>business.analyst.podcast.project@gmail.com</itunes:email></itunes:owner>
+    <itunes:image href="https://archive.org/download/verraj-podcast/verraj-cover-3000.jpg"/>
+    <itunes:category text="Health &amp; Fitness"><itunes:category text="Mental Health"/></itunes:category>
+    <itunes:category text="Education"><itunes:category text="Self-Improvement"/></itunes:category>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:type>episodic</itunes:type>
+    <item>
+      <title>وراج ۱ – یک استکان مکث</title>
+      <description>وقتی فکرت شلوغه، بیا به اندازه‌ی یه استکان چای مکث کنیم. توی قسمت اول وراج با هم یه تمرین ساده انجام می‌دیم: تماس پاهامون با زمین رو حس می‌کنیم و به چیزهایی که اطرافمون می‌بینیم و می‌شنویم توجه می‌کنیم. ☕️
+
+متن و صدای این پادکست با کمک هوش مصنوعی ساخته می‌شود و پویا آن را منتشر می‌کند. جای مشاوره روان‌شناسی را نمی‌گیرد.</description>
+      <enclosure url="https://archive.org/download/verraj-podcast/verraj-ep01.mp3" length="2153486" type="audio/mpeg"/>
+      <guid isPermaLink="false">verraj-ep001</guid>
+      <pubDate>Sat, 14 Nov 2026 00:25:39 +0000</pubDate>
+      <itunes:duration>179</itunes:duration>
+      <itunes:episode>1</itunes:episode>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+  </channel>
+</rss>
